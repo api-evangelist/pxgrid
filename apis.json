@@ -1,0 +1,48 @@
+{
+    "name": "pxGrid",
+    "description": "<p>The Cisco Platform Exchange Grid (pxGrid) allows you to integrate your application into the pxGrid, a multivendor, cross-platform network system that pulls together different parts of an IT infrastructure such as security monitoring and detection systems, network policy platforms, asset and configuration management, identity and access management platforms, to name a few.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/cisco-pxgrid.png",
+    "tags": [
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pxgrid\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "pxGrid",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/cisco-pxgrid.png",
+            "humanURL": "https:\/\/developer.cisco.com\/site\/pxgrid\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pxgrid-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pxgrid-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/communities.cisco.com\/community\/developer\/pxgrid\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/communities.cisco.com\/community\/developer\/pxgrid\/blog\/feeds\/posts"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.cisco.com\/site\/pxgrid\/"
+        }
+    ]
+}
