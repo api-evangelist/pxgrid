@@ -6,8 +6,8 @@
         "have api",
         "networks"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pxgrid\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -20,18 +20,18 @@
             "tags": [],
             "properties": [
                 {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pxgrid-openapi.json"
-                },
-                {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pxgrid-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pxgrid\/master\/pxgrid-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "https:\/\/communities.cisco.com\/community\/developer\/pxgrid\/blog"
